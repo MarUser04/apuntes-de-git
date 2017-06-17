@@ -1,1 +1,0 @@
-al borrar un archivo, se usa el comando que recomienda git
