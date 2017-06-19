@@ -8,3 +8,5 @@ Si no hemos hecho cambios desde la última confirmación entonces la instantáne
 Con este comando podemos saltar el área de preparación.
 
 ###modificacion de practica 
+
+mas cambios
