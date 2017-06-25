@@ -10,3 +10,5 @@ Con este comando podemos saltar el área de preparación.
 ###modificacion de practica 
 
 mas cambios
+
+clase 6, rama universo 3, info random
