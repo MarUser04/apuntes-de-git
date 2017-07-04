@@ -21,3 +21,6 @@ git config --list
 
 
 Linea desde carpeta secundaria conectada al repositorio local con Github a traves de HTTPS
+
+configurar SSH
+
