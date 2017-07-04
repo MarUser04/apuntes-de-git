@@ -18,3 +18,6 @@ git config --global user.email johndoe@example.com
 git config --global core.editor nano
 git config --list
 ```
+
+
+Linea desde carpeta secundaria conectada al repositorio local con Github a traves de HTTPS
